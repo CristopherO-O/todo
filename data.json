@@ -1,0 +1,102 @@
+{
+  "tasks": [
+    {
+      "id": 0,
+      "priority": 1,
+      "title": "Aprender RUST",
+      "description": "",
+      "done": false
+    },
+    {
+      "id": 5,
+      "priority": 1,
+      "title": "ENVIAR HISTORICO PRO DOUGLAS",
+      "description": "",
+      "done": false
+    },
+    {
+      "id": 6,
+      "priority": 2,
+      "title": "Aprender Git",
+      "description": "",
+      "done": false
+    }
+  ],
+  "agenda": [
+    {
+      "id": 0,
+      "remind": true,
+      "title": "Prova Engenharia de Software",
+      "date": "2026-11-03",
+      "time": "15:00"
+    },
+    {
+      "id": 1,
+      "remind": true,
+      "title": "Prova 1 - Banco de Dados",
+      "date": "2026-10-06",
+      "time": "10:00"
+    },
+    {
+      "id": 2,
+      "remind": true,
+      "title": "Prova 2 - Banco de Dados",
+      "date": "2026-11-17",
+      "time": "10:00"
+    },
+    {
+      "id": 3,
+      "remind": true,
+      "title": "Prova 1 - Teoria de Linguagens",
+      "date": "2026-10-02",
+      "time": "10:00"
+    },
+    {
+      "id": 4,
+      "remind": true,
+      "title": "Prova 2 - Teoria de Linguagens",
+      "date": "2026-11-06",
+      "time": "10:00"
+    },
+    {
+      "id": 5,
+      "remind": true,
+      "title": "Prova 3 - Teoria de Linguagens",
+      "date": "2026-12-11",
+      "time": "10:00"
+    },
+    {
+      "id": 6,
+      "remind": true,
+      "title": "Prova 1 - IA",
+      "date": "2026-09-29",
+      "time": "08:00"
+    },
+    {
+      "id": 7,
+      "remind": true,
+      "title": "Prova IHC",
+      "date": "2026-10-07",
+      "time": "15:00"
+    }
+  ],
+  "notes": [],
+  "wishList": [
+    {
+      "id": 0,
+      "title": "elementos - Euclides",
+      "content": "(Editora UNESP - tradução direta do grego)",
+      "acquired": true
+    },
+    {
+      "id": 2,
+      "title": "Principia",
+      "content": "Philosophiae naturalis principa matematica",
+      "acquired": false
+    }
+  ],
+  "taskId": 7,
+  "agendaId": 8,
+  "notesId": 0,
+  "wishListId": 3
+}

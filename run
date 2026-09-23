@@ -1,0 +1,9 @@
+javac -d bin -cp "lib/*" $(find src -name "*.java")
+java -cp "bin:lib/*" src.Main
+
+--- argumentos especiais ---
+reminders
+addreminder
+todo
+note
+cal

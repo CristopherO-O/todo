@@ -1,0 +1,2 @@
+Main-Class: src.Main
+Class-Path: lib/gson-2.11.0.jar lib/lanterna-3.1.1.jar
